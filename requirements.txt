@@ -1,0 +1,2 @@
+# Requires: impossible-gap
+# (Not available on PyPI)
